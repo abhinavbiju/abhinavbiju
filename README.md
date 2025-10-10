@@ -5,16 +5,33 @@
 - <b>Home SIEM Lab (Elastic Stack, Nmap, and Kali Linux)</b>
   - [SIEM Lab Walkthrough](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
 
+<h2> 🤳 Tools</h2>
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FortiSIEM-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+
+</div>
+
+
 <h2>📃 Certifications</h2>
 
-- [CompTIA Security+](https://www.credly.com/badges/feb15d06-2854-4183-9ddb-c02ecad56d2c/public_url)
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Fortinet%20Certified%20Associate-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+
 
 
 <h2> 🤳 Connect with me:</h2>
 
+
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
 
 [linkedin]: https://linkedin.com/in/abh1navbiju
+[medium]: https://medium.com/@officialabhinavbiju
 
 
 <!--
