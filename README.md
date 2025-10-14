@@ -4,6 +4,8 @@
 
 - <b>Network Forensics Lab (Wireshark)</b>
   - [Network Forensics Lab](https://github.com/abhinavbiju/NetworkForensicsLab) <b><i>
+- <b>PowerShell Integrity FIM (PowerShell)</b>
+  - [FIM Integrity Monitor](https://github.com/abhinavbiju/PowerShell-Integrity-FIM) <b><i>
 
 <h2> 🤳 Tools</h2>
 <div>
