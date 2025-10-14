@@ -3,7 +3,7 @@
 <h2>🧑‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home SIEM Lab (Elastic Stack, Nmap, and Kali Linux)</b>
-  - [SIEM Lab Walkthrough](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
+  - [Network Forensics Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
 
 <h2> 🤳 Tools</h2>
 <div>
