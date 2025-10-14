@@ -2,8 +2,8 @@
 
 <h2>🧑‍💻 Cybersecurity Projects:</h2>
 
-- <b>Home SIEM Lab (Elastic Stack, Nmap, and Kali Linux)</b>
-  - [Network Forensics Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
+- <b>Network Forensics Lab (Wireshark)</b>
+  - [Network Forensics Lab](https://github.com/abhinavbiju/NetworkForensicsLab) <b><i>
 
 <h2> 🤳 Tools</h2>
 <div>
