@@ -6,7 +6,8 @@
   - [Network Forensics Lab](https://github.com/abhinavbiju/NetworkForensicsLab) <b><i>
 - PowerShell Integrity FIM (PowerShell)
   - [File Integrity Monitor](https://github.com/abhinavbiju/PowerShell-Integrity-FIM)
-
+- <b>Password Generator (Python)</b>
+  - [File Integrity Monitor](https://github.com/abhinavbiju/PowerShell-Integrity-FIM)
 <h2> 🤳 Tools</h2>
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
