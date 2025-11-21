@@ -8,6 +8,8 @@
   - [File Integrity Monitor](https://github.com/abhinavbiju/PowerShell-Integrity-FIM)
 - <b>Password Generator (Python)</b>
   - [Password Generator](https://github.com/abhinavbiju/passwordgenerator)
+- <b>Wifi Password Stealer (Educational Purposes Only):(Python)</b>
+  - [WifiPasswordStealer](https://github.com/abhinavbiju/passwordgenerator)
 <h2> 🤳 Tools</h2>
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
