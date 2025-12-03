@@ -10,6 +10,8 @@
   - [Password Generator](https://github.com/abhinavbiju/passwordgenerator)
 - <b>Wifi Password Stealer (Educational Purposes Only)(Python)</b>
   - [WifiPasswordStealer](https://github.com/abhinavbiju/wifi-password-stealer)
+- <b>Microsoft Azure Sentinel SIEM Honeypot Setup (PowerShell)(VM)(Azure Sentinel)</b>
+  - [Microsoft Azure Sentinel SIEM Honeypot](https://github.com/abhinavbiju/Microsoft-Azure-Sentinel-SIEM-Honeypot)
 <h2> 🤳 Tools</h2>
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
