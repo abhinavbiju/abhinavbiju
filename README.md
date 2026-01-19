@@ -4,7 +4,7 @@
 
 - <b>Network Forensics Lab using Wireshark</b>
   - [Network Forensics Lab](https://github.com/abhinavbiju/NetworkForensicsLab) <b><i>
-- File Integrity Monitor tool using Powershell (PowerShell)</b>
+- File Integrity Monitor tool using Powershell </b>
   - [File Integrity Monitor](https://github.com/abhinavbiju/PowerShell-Integrity-FIM)
 - <b>Password Generator using Python </b>
   - [Password Generator](https://github.com/abhinavbiju/passwordgenerator)
