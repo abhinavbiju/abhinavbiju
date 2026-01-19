@@ -10,8 +10,8 @@
   - [Password Generator](https://github.com/abhinavbiju/passwordgenerator)
 - <b>Wi-fi Password Stealer Tool using Python (Educational Purposes Only)</b>
   - [Wi-fi Password Stealer](https://github.com/abhinavbiju/wifi-password-stealer)
-- <b>Automated S3 Security Scanner using Python </b>
-  - [Automated S3 Security Scanner](https://github.com/abhinavbiju/Automated-S3-Security-Scanner)
+- <b>Automated AWS S3 Security Scanner using Python </b>
+  - [Automated AWS S3 Security Scanner](https://github.com/abhinavbiju/Automated-S3-Security-Scanner)
 - <b>Microsoft Azure Sentinel SIEM Honeypot Lab </b>
   - [Microsoft Azure Sentinel SIEM Honeypot](https://github.com/abhinavbiju/Microsoft-Azure-Sentinel-SIEM-Honeypot)
 <h2> 🤳 Tools</h2>
