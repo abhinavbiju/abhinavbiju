@@ -4,13 +4,15 @@
 
 - <b>Network Forensics Lab (Wireshark)</b>
   - [Network Forensics Lab](https://github.com/abhinavbiju/NetworkForensicsLab) <b><i>
-- PowerShell Integrity FIM (PowerShell)
+- PowerShell Integrity FIM (PowerShell)</b>
   - [File Integrity Monitor](https://github.com/abhinavbiju/PowerShell-Integrity-FIM)
-- <b>Password Generator (Python)</b>
+- <b>Password Generator </b>
   - [Password Generator](https://github.com/abhinavbiju/passwordgenerator)
-- <b>Wifi Password Stealer (Educational Purposes Only)(Python)</b>
+- <b>Wifi Password Stealer Tool (Educational Purposes Only)</b>
   - [WifiPasswordStealer](https://github.com/abhinavbiju/wifi-password-stealer)
-- <b>Microsoft Azure Sentinel SIEM Honeypot Setup (PowerShell)(VM)(Azure Sentinel)</b>
+- Automated S3 Security Scanner
+  - [Automated S3 Security Scanner](https://github.com/abhinavbiju/Automated-S3-Security-Scanner)
+- <b>Microsoft Azure Sentinel SIEM Honeypot Lab </b>
   - [Microsoft Azure Sentinel SIEM Honeypot](https://github.com/abhinavbiju/Microsoft-Azure-Sentinel-SIEM-Honeypot)
 <h2> 🤳 Tools</h2>
 <div>
@@ -18,6 +20,7 @@
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-FortiSIEM-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure Sentinel-1679A7?&style=for-the-badge&logo=Splunk&logoColor=white" 
 
 </div>
 
