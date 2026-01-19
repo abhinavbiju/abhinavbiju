@@ -2,15 +2,15 @@
 
 <h2>🧑‍💻 Cybersecurity Projects:</h2>
 
-- <b>Network Forensics Lab (Wireshark)</b>
+- <b>Network Forensics Lab using Wireshark</b>
   - [Network Forensics Lab](https://github.com/abhinavbiju/NetworkForensicsLab) <b><i>
-- PowerShell Integrity FIM (PowerShell)</b>
+- File Integrity Monitor tool using Powershell (PowerShell)</b>
   - [File Integrity Monitor](https://github.com/abhinavbiju/PowerShell-Integrity-FIM)
-- <b>Password Generator </b>
+- <b>Password Generator using Python </b>
   - [Password Generator](https://github.com/abhinavbiju/passwordgenerator)
-- <b>Wifi Password Stealer Tool (Educational Purposes Only)</b>
+- <b>Wifi Password Stealer Tool using Python (Educational Purposes Only)</b>
   - [WifiPasswordStealer](https://github.com/abhinavbiju/wifi-password-stealer)
-- Automated S3 Security Scanner
+- Automated S3 Security Scanner using Python
   - [Automated S3 Security Scanner](https://github.com/abhinavbiju/Automated-S3-Security-Scanner)
 - <b>Microsoft Azure Sentinel SIEM Honeypot Lab </b>
   - [Microsoft Azure Sentinel SIEM Honeypot](https://github.com/abhinavbiju/Microsoft-Azure-Sentinel-SIEM-Honeypot)
