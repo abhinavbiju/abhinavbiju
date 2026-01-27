@@ -14,6 +14,8 @@
   - [Automated AWS S3 Security Scanner](https://github.com/abhinavbiju/Automated-S3-Security-Scanner)
 - <b>AI Security Scanner with Gemini
   - [AI Security Scanner with Gemini](https://github.com/abhinavbiju/AI-Security-Scanner-with-Gemini)
+- <b>Serverless Security Scanner with AWS + Gemini
+  - [Serverless Security Scanner](https://github.com/abhinavbiju/Serverless-Security-Scanner)
 - <b>Microsoft Azure Sentinel SIEM Honeypot Lab </b>
   - [Microsoft Azure Sentinel SIEM Honeypot](https://github.com/abhinavbiju/Microsoft-Azure-Sentinel-SIEM-Honeypot)
 <h2> 🤳 Tools</h2>
