@@ -9,7 +9,9 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=In+Cloud+Security+and+Threat+Intelligence" alt="Typing SVG" />
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhinavbiju&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavbiju" /> </p>
 </p>
+
 <h2>🧑‍💻 Cybersecurity Projects:</h2>
   
 - <b>Network Forensics Lab using Wireshark</b>
@@ -28,10 +30,6 @@
   - [Serverless Security Scanner](https://github.com/abhinavbiju/Serverless-Security-Scanner)
 - <b>Microsoft Azure Sentinel SIEM Honeypot Lab </b>
   - [Microsoft Azure Sentinel SIEM Honeypot](https://github.com/abhinavbiju/Microsoft-Azure-Sentinel-SIEM-Honeypot)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavbiju&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavbiju" /> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavbiju&show_icons=true&locale=en" alt="abhinavbiju" /></p>
 
 <h2> 🛡️ Security Tools</h2>
 <div>
