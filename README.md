@@ -39,7 +39,8 @@
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-FortiSIEM-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure Sentinel-1679A7?&style=for-the-badge&logo=Splunk&logoColor=white" 
+    <img src="https://img.shields.io/badge/-Azure_Sentinel-0078D4?style=for-the-badge&logo=azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" />
 
 </div>
 
