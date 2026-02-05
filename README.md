@@ -30,6 +30,8 @@
   - [Serverless Security Scanner](https://github.com/abhinavbiju/Serverless-Security-Scanner)
 - <b>Launch AWS S3 Bucket with Terraform</b>
   - [Launch AWS S3 Bucket with Terraform](https://github.com/abhinavbiju/S3-bucket-with-Terraform)
+- <b>Deploy an App with Docker + AWS Beanstalk</b>
+  - [Deploy an App with Docker + AWS Beanstalk](https://github.com/abhinavbiju/Microsoft-Azure-Sentinel-SIEM-Honeypot)
 - <b>Microsoft Azure Sentinel SIEM Honeypot Lab </b>
   - [Microsoft Azure Sentinel SIEM Honeypot](https://github.com/abhinavbiju/Microsoft-Azure-Sentinel-SIEM-Honeypot)
 
