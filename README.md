@@ -44,7 +44,6 @@
     <img src="https://img.shields.io/badge/-Azure%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
 </div>
 
 <h2> ☁︎⋅ Cloud Providers</h2>
