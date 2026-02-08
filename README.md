@@ -75,7 +75,7 @@
 </a>
   
 <h2>📃 Certifications</h2>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Fortinet%20Certified%20Associate-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 
