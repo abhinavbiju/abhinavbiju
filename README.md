@@ -44,6 +44,7 @@
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-FortiSIEM-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Chronicle-4285F4?style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
