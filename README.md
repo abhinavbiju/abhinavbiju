@@ -36,6 +36,8 @@
   - [Security Header Scanner](https://github.com/abhinavbiju/HeaderGuard)
 - <b>Microsoft Azure Sentinel SIEM Honeypot Lab </b>
   - [Microsoft Azure Sentinel SIEM Honeypot](https://github.com/abhinavbiju/Microsoft-Azure-Sentinel-SIEM-Honeypot)
+- <b>PhishGuard URL Checker <b>
+  - [Phishing URL Scanner](
 
 <h2> 🛡️ Tools</h2>
 <div>
