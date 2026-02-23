@@ -49,6 +49,7 @@
     <img src="https://img.shields.io/badge/-Google%20Chronicle-4285F4?style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
 </div>
 
 <h2> ☁︎⋅ Cloud Providers</h2>
