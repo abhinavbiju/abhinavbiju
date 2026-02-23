@@ -12,7 +12,7 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhinavbiju&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavbiju" /> </p>
 </p>
 
-<h2>🧑‍💻 Cybersecurity Projects:</h2>
+<h2>🧑‍💻 Abhinav's Projects:</h2>
   
 - <b>Network Forensics Lab using Wireshark</b>
   - [Network Forensics Lab](https://github.com/abhinavbiju/NetworkForensicsLab) <b><i>
