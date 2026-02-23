@@ -18,8 +18,6 @@
   - [Network Forensics Lab](https://github.com/abhinavbiju/NetworkForensicsLab) <b><i>
 - File Integrity Monitor tool using Powershell </b>
   - [File Integrity Monitor](https://github.com/abhinavbiju/PowerShell-Integrity-FIM)
-- <b>Password Generator using Python </b>
-  - [Password Generator](https://github.com/abhinavbiju/passwordgenerator)
 - <b>Wi-fi Password Stealer Tool using Python (Educational Purposes Only)</b>
   - [Wi-fi Password Stealer](https://github.com/abhinavbiju/wifi-password-stealer)
 - <b>Automated AWS S3 Security Scanner using Python </b>
