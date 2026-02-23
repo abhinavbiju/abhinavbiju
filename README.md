@@ -32,6 +32,8 @@
   - [Launch AWS S3 Bucket with Terraform](https://github.com/abhinavbiju/S3-bucket-with-Terraform)
 - <b>Deploy an App with Docker + AWS Elastic Beanstalk</b>
   - [Deploy an App with Docker + AWS Elastic Beanstalk](https://github.com/abhinavbiju/Deploy-an-App-with-Docker-AWS-Elastic-Beanstalk)
+- <b>HeaderGuard</b>
+  - [Security Header Scanner](https://github.com/abhinavbiju/HeaderGuard)
 - <b>Microsoft Azure Sentinel SIEM Honeypot Lab </b>
   - [Microsoft Azure Sentinel SIEM Honeypot](https://github.com/abhinavbiju/Microsoft-Azure-Sentinel-SIEM-Honeypot)
 
