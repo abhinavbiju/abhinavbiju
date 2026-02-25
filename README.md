@@ -1,4 +1,4 @@
-S<h1 align="center">
+<h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> 
   Hi, I'm <span style="color: #36BCF7;">Abhinav</span>
 </h1>
@@ -82,6 +82,7 @@ S<h1 align="center">
 <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Fortinet%20Certified%20Associate-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 
 <h2> 👤 Connect with Me</h2>
