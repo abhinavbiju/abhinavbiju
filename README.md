@@ -1,4 +1,4 @@
-<h1 align="center">
+S<h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> 
   Hi, I'm <span style="color: #36BCF7;">Abhinav</span>
 </h1>
@@ -50,6 +50,7 @@
     <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/-n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
 
 <h2> ☁︎⋅ Cloud Providers</h2>
