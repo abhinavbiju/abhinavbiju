@@ -27,7 +27,7 @@
 - <b>Microsoft Azure Sentinel SIEM Honeypot Lab </b>
   - [Microsoft Azure Sentinel SIEM Honeypot](https://github.com/abhinavbiju/Microsoft-Azure-Sentinel-SIEM-Honeypot)
 - <b>AI Chatbot with Amazon Bedrock </b>
-  - [AI Chatbot with Amazon Bedrock]()
+  - [AI Chatbot with Amazon Bedrock](https://github.com/abhinavbiju/AI-Chatbot-with-Amazon-Bedrock)
   
 <h2> 💻 Abhinav's Cyber Projects:</h2>
 
