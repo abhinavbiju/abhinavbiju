@@ -12,7 +12,7 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhinavbiju&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavbiju" /> </p>
 </p>
 
-<h2>🧑‍💻 Abhinav's Cloud Projects:</h2>
+<h2>☁️ Abhinav's Cloud Projects:</h2>
   
 - <b>Automated AWS S3 Security Scanner using Python </b>
   - [Automated AWS S3 Security Scanner](https://github.com/abhinavbiju/Automated-S3-Security-Scanner)
@@ -24,14 +24,12 @@
   - [Launch AWS S3 Bucket with Terraform](https://github.com/abhinavbiju/S3-bucket-with-Terraform)
 - <b>Deploy an App with Docker + AWS Elastic Beanstalk</b>
   - [Deploy an App with Docker + AWS Elastic Beanstalk](https://github.com/abhinavbiju/Deploy-an-App-with-Docker-AWS-Elastic-Beanstalk)
-- <b>HeaderGuard</b>
-  - [Security Header Scanner](https://github.com/abhinavbiju/HeaderGuard)
 - <b>Microsoft Azure Sentinel SIEM Honeypot Lab </b>
   - [Microsoft Azure Sentinel SIEM Honeypot](https://github.com/abhinavbiju/Microsoft-Azure-Sentinel-SIEM-Honeypot)
-- <b>PhishGuard URL Checker <b>
-  - [Phishing URL Scanner](https://github.com/abhinavbiju/PhishGuard-URL-Checker)
-
-<h2>🧑‍💻 Abhinav's Cyber Projects:</h2>
+- <b>AI Chatbot with Amazon Bedrock </b>
+  - [AI Chatbot with Amazon Bedrock]()
+  
+<h2> 💻 Abhinav's Cyber Projects:</h2>
 
 - <b>Network Forensics Lab using Wireshark</b>
   - [Network Forensics Lab](https://github.com/abhinavbiju/NetworkForensicsLab) <b><i>
@@ -39,14 +37,17 @@
   - [File Integrity Monitor](https://github.com/abhinavbiju/PowerShell-Integrity-FIM)
 - <b>Wi-fi Password Stealer Tool using Python (Educational Purposes Only)</b>
   - [Wi-fi Password Stealer](https://github.com/abhinavbiju/wifi-password-stealer)
+- <b>HeaderGuard</b>
+  - [Security Header Scanner](https://github.com/abhinavbiju/HeaderGuard)
+- <b>PhishGuard URL Checker <b>
+  - [Phishing URL Scanner](https://github.com/abhinavbiju/PhishGuard-URL-Checker)
   
-<h2>🧑‍💻 Abhinav's Other Projects:</h2>
+<h2>🚧 Abhinav's Other Projects:</h2>
 
 - <b>AI Calender Assistant <b>
   - [AI Calender Assistant](https://github.com/abhinavbiju/AI_Calender_Assistant)
 - <b>RAG API with FastAPI Project <b>
   - [RAG API with FastAPI Project](https://github.com/abhinavbiju/RAG-API-Project)
-
 
 <h2> 🛡️ Tools</h2>
 <div>
