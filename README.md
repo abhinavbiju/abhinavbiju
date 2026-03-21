@@ -16,6 +16,10 @@
   
 - <b>Automated AWS S3 Security Scanner using Python </b>
   - [Automated AWS S3 Security Scanner](https://github.com/abhinavbiju/Automated-S3-Security-Scanner)
+- <b>Cloud Cost Calculator </b>
+  - [Cloud Cost Calculator](https://github.com/abhinavbiju/Cloud-Cost-Calculator)
+- <b>Automatic Backup System with S3 </b>
+  - [Automatic Backup System with S3](https://github.com/abhinavbiju/Automatic-Backup-System)
 - <b>AI Security Scanner with Gemini</b>
   - [AI Security Scanner with Gemini](https://github.com/abhinavbiju/AI-Security-Scanner-with-Gemini)
 - <b>Serverless Security Scanner with AWS + Gemini</b>
