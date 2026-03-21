@@ -16,6 +16,8 @@
   
 - <b>Automated AWS S3 Security Scanner using Python </b>
   - [Automated AWS S3 Security Scanner](https://github.com/abhinavbiju/Automated-S3-Security-Scanner)
+- <b>Website Uptime Monitor using AWS </b>
+  - [Website Uptime Monitor using AWS](https://github.com/abhinavbiju/Website-Uptime-Monitor)
 - <b>Cloud Cost Calculator </b>
   - [Cloud Cost Calculator](https://github.com/abhinavbiju/Cloud-Cost-Calculator)
 - <b>Automatic Backup System with S3 </b>
