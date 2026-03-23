@@ -22,6 +22,8 @@
   - [Cloud Cost Calculator](https://github.com/abhinavbiju/Cloud-Cost-Calculator)
 - <b>Automatic Backup System with S3 </b>
   - [Automatic Backup System with S3](https://github.com/abhinavbiju/Automatic-Backup-System)
+- <b>Real Time Stock Market Data Analytics Pipeline</b>
+  - [Real Time Stock Market Data Analytics Pipeline](https://github.com/abhinavbiju/Real-Time-Stock-Market-Data-Analytics-Pipeline)
 - <b>AI Security Scanner with Gemini</b>
   - [AI Security Scanner with Gemini](https://github.com/abhinavbiju/AI-Security-Scanner-with-Gemini)
 - <b>Serverless Security Scanner with AWS + Gemini</b>
